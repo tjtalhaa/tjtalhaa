@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tjtalhaa
 - 👀 I’m interested in Servicenow and Full Stack Dev
 - 🌱 I’m currently learning Full Stack Dev
-- 💞️ I’m looking to collaborate on Servicenow GRC + Full stack  Applications 
+- 💞️ I’m looking to collaborate on Servicenow Or Full stack  Applications 
 - 📫 How to reach me +92 345 5502839 (whatsapp)
 
 <!---
